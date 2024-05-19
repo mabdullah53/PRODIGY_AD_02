@@ -10,8 +10,6 @@ A simple and efficient To-Do List application built using Flutter.
 - Persistent storage of tasks
   -Search your task
 
-## Screenshots
-
 
 ## Installation
 
